@@ -3,7 +3,7 @@ Adds a Weather Map gif for the SmallTV Pro Weather app.
 
 ![water](https://github.com/djware/SmallTVProWeatherMap/assets/85318457/9aaee89d-13b7-4db9-98dd-d8dd17fbf255)
 
-![SmallTv Pro](https://github.com/GeekMagicClock/smalltv-pro/raw/main/assets/smalltv-pro-banner.png)
+![SmallTv Pro](https://github.com/GeekMagicClock/smalltv-pro)
 
 This repository contains a Python script designed for managing GIF images on the [SmallTv Pro](https://github.com/GeekMagicClock/smalltv-pro). The script automates the downloading, resizing, uploading, setting, and deleting of GIFs to keep your SmallTv Pro display updated with the latest weather radar animations.
 
