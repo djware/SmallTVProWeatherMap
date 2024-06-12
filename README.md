@@ -10,8 +10,6 @@ This repository contains a Python script designed for managing GIF images on the
 ## Features
 
 - **Automated GIF Management**: Download, resize, and upload GIFs automatically at set intervals.
-- **Queue Management**: Clear the GIF queue at startup and within functions to ensure smooth operation.
-- **Retry Mechanism**: Robust error handling with retry logic for downloading, uploading, setting, and deleting GIFs.
 
 ## Prerequisites
 
