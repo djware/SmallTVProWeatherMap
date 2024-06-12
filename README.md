@@ -1,7 +1,7 @@
 # SmallTVProWeatherMap
-Weather Map gif for the SmallTV Pro. 
+Adds a Weather Map gif for the SmallTV Pro Weather app. 
 
-# SmallTv Pro GIF Management Script
+![water](https://github.com/djware/SmallTVProWeatherMap/assets/85318457/9aaee89d-13b7-4db9-98dd-d8dd17fbf255)
 
 ![SmallTv Pro](https://github.com/GeekMagicClock/smalltv-pro/raw/main/assets/smalltv-pro-banner.png)
 
