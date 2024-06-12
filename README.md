@@ -43,22 +43,20 @@ interval = 60
 Download and Resize GIF:
 
 The script downloads a GIF from the specified URL and resizes it to 80x80 pixels.
-Upload GIF:
+
 
 The resized GIF is uploaded to the SmallTv Pro device.
-Set GIF:
+
 
 The uploaded GIF is set as the current display on the SmallTv Pro.
-Delete Old GIF:
+
 
 The previously displayed GIF is deleted to keep the storage clean.
-Clear GIF Queue:
+
 
 The GIF queue is cleared at startup and can be cleared within the functions as needed.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
+## Acknowledgements
 SmallTv Pro by GeekMagicClock
 The Python libraries used in this project
