@@ -23,7 +23,7 @@ This repository contains a Python script designed for managing GIF images on the
 You can install the required libraries using:
 ```bash
 pip install requests imageio Pillow requests_toolbelt
-
+```
 How It Works
 Download and Resize GIF:
 
