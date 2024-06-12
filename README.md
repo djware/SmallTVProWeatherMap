@@ -23,3 +23,29 @@ This repository contains a Python script designed for managing GIF images on the
 You can install the required libraries using:
 ```bash
 pip install requests imageio Pillow requests_toolbelt
+
+How It Works
+Download and Resize GIF:
+
+The script downloads a GIF from the specified URL and resizes it to 80x80 pixels.
+Upload GIF:
+
+The resized GIF is uploaded to the SmallTv Pro device.
+Set GIF:
+
+The uploaded GIF is set as the current display on the SmallTv Pro.
+Delete Old GIF:
+
+The previously displayed GIF is deleted to keep the storage clean.
+Clear GIF Queue:
+
+The GIF queue is cleared at startup and can be cleared within the functions as needed.
+Contributing
+We welcome contributions to improve this script! If you have any suggestions or find any bugs, please open an issue or submit a pull request.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Acknowledgements
+SmallTv Pro by GeekMagicClock
+The Python libraries used in this project
