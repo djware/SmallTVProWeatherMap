@@ -27,8 +27,8 @@ pip install requests imageio Pillow requests_toolbelt
 
 Configure the script:
 Weather gif can be found here. https://www.radarmonster.com/ find your location and grab the image url. Copy it into the gif_url section below. 
-Edit the configuration section in the script to set the appropriate URLs and intervals.
-python
+
+
 ```bash
 # Configuration
 gif_url = "https://radar.weather.gov/ridge/standard/KMPX_loop.gif"
