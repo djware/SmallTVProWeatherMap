@@ -25,7 +25,7 @@ You can install the required libraries using:
 pip install requests imageio Pillow requests_toolbelt
 ```
 
-Configure the script:
+## Configure the script:
 Weather gif can be found here. https://www.radarmonster.com/ find your location and grab the image url. Copy it into the gif_url section below. 
 
 
@@ -39,7 +39,7 @@ clear_gif_queue_url = "http://192.168.50.153/set?clear=gif"
 gif_dir = "/image/80x80.gif"
 interval = 60
 ```
-How It Works
+## How It Works
 Download and Resize GIF:
 
 The script downloads a GIF from the specified URL and resizes it to 80x80 pixels.
@@ -55,8 +55,6 @@ The previously displayed GIF is deleted to keep the storage clean.
 Clear GIF Queue:
 
 The GIF queue is cleared at startup and can be cleared within the functions as needed.
-Contributing
-We welcome contributions to improve this script! If you have any suggestions or find any bugs, please open an issue or submit a pull request.
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
