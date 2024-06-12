@@ -24,6 +24,21 @@ You can install the required libraries using:
 ```bash
 pip install requests imageio Pillow requests_toolbelt
 ```
+
+Configure the script:
+Weather gif can be found here. https://www.radarmonster.com/ find your location and grab the image url. Copy it into the gif_url section below. 
+Edit the configuration section in the script to set the appropriate URLs and intervals.
+python
+```bash
+# Configuration
+gif_url = "https://radar.weather.gov/ridge/standard/KMPX_loop.gif"
+upload_url = "http://192.168.50.153/doUpload"
+set_gif_url = "http://192.168.50.153/set"
+delete_gif_url = "http://192.168.50.153/delete"
+clear_gif_queue_url = "http://192.168.50.153/set?clear=gif"
+gif_dir = "/image/80x80.gif"
+interval = 60
+```
 How It Works
 Download and Resize GIF:
 
