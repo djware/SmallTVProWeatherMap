@@ -5,6 +5,8 @@ Adds a Weather Map gif for the SmallTV Pro Weather app.
 
 ![SmallTv Pro](https://github.com/GeekMagicClock/smalltv-pro)
 
+Disclaimer - Per [GeekMagicClock](https://github.com/GeekMagicClock/smalltv-pro/issues/72#issuecomment-2521860672) the data is written directly to the internal NOR flash, the erasing and writing life may be limited. It is not recommended to update pictures frequently as it may damage the device, on your own risk.
+
 This repository contains a Python script designed for managing GIF images on the [SmallTv Pro](https://github.com/GeekMagicClock/smalltv-pro). The script automates the downloading, resizing, uploading, setting, and deleting of GIFs to keep your SmallTv Pro display updated with the latest weather radar animations.
 
 ## Features
